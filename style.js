@@ -25,6 +25,7 @@ export default StyleSheet.create({
   Button: {
     marginTop: 50,
     borderRadius: 10,
+    marginBottom: 10,
   },
 
   input: {
