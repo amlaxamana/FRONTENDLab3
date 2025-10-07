@@ -51,8 +51,8 @@ export default StyleSheet.create({
 
   uselist: {
     padding: 20,
-    backgroundColor: "#f39821ff", // 1. White background for a clean look
-    marginVertical: 8, // 2. Vertical spacing between cards
+    backgroundColor: "#f39821ff",
+    marginVertical: 8,
     textAlign: "center",
     borderRadius: 10,
   },
