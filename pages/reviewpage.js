@@ -32,6 +32,7 @@ export default function ReviewPage({ route, navigation }) {
       <Text style={styles.inputreview}>Gender: {formData.gender}</Text>
 
       <Button
+        style={{ marginBottom: 10 }}
         color="#116586ff"
         title="Go Back to edit"
         onPress={() => navigation.goBack("Register")}

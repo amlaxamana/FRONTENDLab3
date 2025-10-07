@@ -47,4 +47,25 @@ export default StyleSheet.create({
     width: "40%",
     borderColor: "#312f29ff",
   },
+
+  uselist: {
+    padding: 20,
+    backgroundColor: "#f39821ff", // 1. White background for a clean look
+    marginVertical: 8, // 2. Vertical spacing between cards
+    textAlign: "center",
+    borderRadius: 10,
+  },
+
+  titlelist: {
+    fontSize: 24,
+    fontWeight: "bold",
+    marginBottom: 10,
+    textAlign: "center",
+    color: "#fff",
+  },
+
+  info: {
+    color: "#fff",
+    fontFamily: "Arial",
+  },
 });
